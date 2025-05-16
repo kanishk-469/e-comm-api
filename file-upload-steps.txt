@@ -1,0 +1,14 @@
+Defn:- Multer is a node.js middleware for handling multipart/form-data,
+which is primarily used for uploading files. It is written on top of 
+busboy for maximum efficiency.
+
+NOTE: Multer will not process any form which is not multipart (multi
+part/form-data).
+
+
+STEPS: - 
+1. Install multer package/library -- npm i multer 
+2. Changes in View
+3. Create Middleware to handle files.
+4. Apply that middleware.
+5. Update Controller to update urls of images.

@@ -1,0 +1,21 @@
+/node_modules/
+.env
+=======
+# Ignore node_modules folder
+/node_modules/
+
+# Ignore environment and credentials files
+.env
+config/secrets.json
+
+# Ignore log files
+*.log
+
+# Ignore build and compiled files
+/dist
+/build
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+

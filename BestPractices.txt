@@ -1,0 +1,19 @@
+Developer should follow while working with REST API,
+Keep in mind some other developers and consumers would use
+my APIs.(API should be User friendly)
+
+REST API Best Practices
+
+>> Using correct status code 
+>> Error Handling .. proper error.message
+>> Input Validation (express-validator)
+>> Using correct request methods(GET,POST,PUT,DELETE)
+>> Secure APIs (BasicAuth, JWTAuth etc)
+>> Using Naming Conventions for URL 
+>> so on...
+
+Refer >> https://restfulapi.net/resource-naming/
+REST API URI Naming Conventions and Best Practices
+In REST, having a strong and consistent REST resource nam
+ing strategy – will prove one of the best design decisions
+in the long term. Let’s discuss.

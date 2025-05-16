@@ -1,0 +1,15 @@
+Place Order...
+
+All below operations should perform together as a single operation.
+
+1. Get cart items of user, calculate totalAmount.
+2. Create a record for order.
+3. Reduce the stock(Products quantity).
+4. Clear the cart.
+
+5. Deduct the payment.
+6. Inform to Sellers.
+7. Inform to Courier partners.
+
+
+

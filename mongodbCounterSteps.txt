@@ -1,0 +1,7 @@
+Step: 1 - Create counter Collection(_id:"cartItemId",value: 0 ) inside 
+mongodb NoSQL Database. inside config/mongodb.js file.
+
+Step: 2 - While adding cart items, increment the counter and then use counter
+value as id to the cartItems Document.
+
+
