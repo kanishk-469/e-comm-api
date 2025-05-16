@@ -6,8 +6,10 @@ The E-commerce page that aims to create a fully functional banckend for an e-com
 This project focuses on building APIs to handle core
 e-commerece functionalities such as product listing, user authentication , cart management , favourites management and order management.
 
-The backend is built with Node.js, Express.js , MongoDB
+The backend is built with Node.js, Express.js , MongoDB , Mongoose ODM
 , ensuring with a secure and scalable syatem with proper routing, authentication and database management(Our data would present remotely).
+
+Note:- For sending request in place of frontend I have use POSTMAN.
 
 ## Main Components Only, of application
 
