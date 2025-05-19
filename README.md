@@ -24,3 +24,5 @@ Note:- For sending request in place of frontend I have use POSTMAN.
 ### 5. Checkout Component
 
 ### 6. Notification Component
+
+# can be accessed on URL: https://e-comm-api-p01c.onrender.com/
